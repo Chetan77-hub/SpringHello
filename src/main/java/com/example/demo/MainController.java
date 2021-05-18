@@ -13,7 +13,7 @@ public class MainController {
 	
 	@GetMapping("/")
 	public String HelloWorld() {
-		return "Hello World";
+		return "Hello Universe";
 	}
 
 }
